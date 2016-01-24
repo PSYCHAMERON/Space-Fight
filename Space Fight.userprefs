@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HeroShip.js">
+    <Files>
+      <File FileName="C:\Users\SHUVO\Documents\Unity Test Project\Assets\Scripts\SpotlightScript.cs" Line="1" Column="1" />
+      <File FileName="C:\Users\SHUVO\Documents\Unity Test Project\Assets\Scripts\Test.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitleScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HeroShip.js" Line="113" Column="37" />
+      <File FileName="Assets\Scripts\GameControl.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyShip.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

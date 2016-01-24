@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Character.js">
+    <Files>
+      <File FileName="Assets\Scripts\FallingObject.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Character.js" Line="15" Column="10" />
+      <File FileName="Assets\Scripts\DestroyParticleSystem.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitleScript.js" Line="17" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
